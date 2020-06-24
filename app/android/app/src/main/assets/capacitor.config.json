@@ -4,11 +4,10 @@
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
-  "windowsAndroidStudioPath": "C:\\Program Files\\JetBrains\\JetBrains Rider 2020.1.3\\bin\\rider64.exe",
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 0
     }
   },
   "cordova": {}
-}                          
+}
