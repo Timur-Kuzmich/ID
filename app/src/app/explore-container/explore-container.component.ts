@@ -11,5 +11,9 @@ export class ExploreContainerComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {}
+  
+  public alert(){
+    console.log('Log message!!');
+  }
 
 }
